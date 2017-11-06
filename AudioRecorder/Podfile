@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'AudioRecorder' do
+
+	pod 'FLKAutoLayout',              '~> 1.0.0'
+
+end
